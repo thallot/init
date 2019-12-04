@@ -1,0 +1,8 @@
+## TAPER LA COMMANDE 'su' suivi du nom de connection en ssh ##
+su <username>
+
+## Ou pour acceder a une VM distante utiliser la commande 
+ssh username@host_ip_address
+
+## EN GUI ##
+Cliquer dans l'icone prevu a cet effet et cliquer sur "Switch User Account..."

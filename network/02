@@ -1,0 +1,2 @@
+ifconfig -L en0
+arp -a

@@ -1,0 +1,5 @@
+# !/bin/bash
+echo -e "Entrez l'utilisateur a supprimmer"
+read -p $USER
+pkill -u $USER
+userdel $USER

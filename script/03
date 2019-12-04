@@ -1,0 +1,18 @@
+#!/bin/bash
+
+nombre=0
+nbtentative=0
+aleatoire=$((RANDOM%100+0))
+
+echo "\033[32m Bienvenue, essayez de deviner mon nombre, il est compris entre 0 et 100"
+while [ $nombre -ne $aleatoire ] ; do
+	echo  "\033[33m Entrez un nombre : " ; read nombre
+	if [ "$nombre" -lt $aleatoire ] ; then
+		echo "\033[31m C'est plus"
+	elif [ "$nombre" -gt $aleatoire ] ; then
+	echo "\033[31m C'est moins"
+	fi
+		nbtentative=$(( $nbtentative + 1 ))
+	done
+echo "\033[32m Bravo!! Vous avez deviné $aleatoire en $nbtentative coups."
+exit 0

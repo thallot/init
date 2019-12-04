@@ -1,0 +1,14 @@
+-rwxr-xr-x  1 root root 1232 Apr  7  2017 console-setup.sh
+-rwxr-xr-x  1 root root 3049 Oct  7  2017 cron
+-rwxr-xr-x  1 root root 2813 Mar  2  2018 dbus
+-rwxr-xr-x  1 root root 3809 Mar 22  2017 hwclock.sh
+-rwxr-xr-x  1 root root 2448 Dec 30  2016 irqbalance
+-rwxr-xr-x  1 root root 1479 May 19  2016 keyboard-setup.sh
+-rwxr-xr-x  1 root root 2044 Dec 26  2016 kmod
+-rwxr-xr-x  1 root root 4597 Sep 16  2016 networking
+-rwxr-xr-x  1 root root 1191 Nov 22  2016 procps
+-rwxr-xr-x  1 root root 4355 Dec 10  2017 rsync
+-rwxr-xr-x  1 root root 2868 Jan 18  2017 rsyslog
+-rwxr-xr-x  1 root root 4033 Mar  1 16:19 ssh
+-rwxr-xr-x  1 root root  731 Jun  5  2017 sudo
+-rwxr-xr-x  1 root root 6087 Dec  3  2017 udev

@@ -1,0 +1,1 @@
+netstat -r | grep -i "default" | sed -n '1p'

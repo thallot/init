@@ -1,0 +1,9 @@
+traceroute to slash16.org (13.32.211.144), 64 hops max, 52 byte packets
+ 1  10.13.254.254 (10.13.254.254)  0.638 ms  0.363 ms  0.342 ms
+ 2  nat-1 (10.60.1.11)  0.198 ms  0.177 ms  0.187 ms
+ 3  dc3 (62.210.35.1)  1.558 ms  2.564 ms  1.577 ms
+ 4  195.154.1.174 (195.154.1.174)  1.167 ms  1.115 ms  1.109 ms
+ 5  a9k2-45x-s44-2.dc3.poneytelecom.eu (195.154.1.106)  2.335 ms  1.116 ms  1.281 ms
+ 6  amazon-th2.par.franceix.net (37.49.236.118)  3.098 ms  1.056 ms  1.025 ms
+
+ Resultat : 2  nat-1 (10.60.1.11) 
